@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 def main():
+    # Given a non-negative number represented as an array of digits, plus one to the number.
+    # The digits are stored such that the most significant digit is at the head of the list.
     s1 = []
     s2 = [0]
     s3 = [1]
